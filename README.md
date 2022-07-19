@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C, C++, Python**
 
-- 📫 How to reach me **benatcastro@gmail.c**
+- 📫 How to reach me **benatcastro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
