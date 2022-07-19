@@ -5,8 +5,8 @@
   <img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
 </div>
 
-<div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benatcastro&theme=black-ice&hide_border=true&background=0D1117)](https://git.io    /streak-stats)
-</div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benatcastro&theme=black-ice&hide_border=true&background=0D1117)](https://git.io    /streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benatcastro)](https://github.com/anuraghazra/github-readme-stats)
 
