@@ -2,7 +2,7 @@
 <h3 align="center">A student of the 42 network located at the Vasque Country</h3>
 
 <div align="center">
-  <img src="https://giphy.com/embed/FqdGGgugkC4Xm" width="480" height="255"/>
+  <img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
 </div>
 - 🌱 I’m currently learning **C, C++, Python**
 
