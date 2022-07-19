@@ -4,9 +4,6 @@
 <div align="center">
   <img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
 </div>
-- 🌱 I’m currently learning **C, C++, Python**
-
-- 📫 How to reach me **benatcastro@gmail.com**
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benatcastro&theme=black-ice&hide_border=true&background=0D1117)](https://git.io/streak-stats)
