@@ -3,7 +3,7 @@
 </div>
 <div id="greeting" align="center">
     <h1>Hi 👋, I'm Beñat Castro!</h1>
-    <h1>Thanks for checking out my profile!</h1>
+    <h3>Thanks for checking out my profile!</h3>
 </div>
 
 <div id="badges" align="center">
