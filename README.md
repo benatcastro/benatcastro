@@ -14,17 +14,18 @@
     </a>
     <a id="instagram" href="https://www.instagram.com/benaatt__/">
         <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
-        <div id="Views counter">
-            <img src="https://komarev.com/ghpvc/?username=benatcastro&style=for-the-badge">
-        </div>
+    <div id="Views counter">
+        <img src="https://komarev.com/ghpvc/?username=benatcastro&style=for-the-badge">
+    </div>
 </div>
-<div align="center">
+    
+<div id= "Typing Gif" align="center">
   <img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
 </div>
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=benatcastro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117) -->
 <div id="stats" align="center">
-    <h2>💢My Stats💢</h2>
+    <h2>My Stats</h2>
     <div id="stats_1">
         <img src="https://github-readme-stats.vercel.app/api?username=benatcastro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
     </div>
