@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="480" height "200"/>
 </div>
 <div id="greeting" align="center">
-    <h1>Hi 👋, I'm Beñat Castro!</h1>
+    <h1>Hi 👋, I'm Beñat!</h1>
     <h3 align="center">A student of the 42 network located at the Vasque Country</h3>
 </div>
 
@@ -12,8 +12,10 @@
     </a>
     <a id="instagram" href="https://www.instagram.com/benaatt__/">
         <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
+        <div id="Views counter">
+            <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square">
+        </div>
 </div>
-<h3 align="center">A student of the 42 network located at the Vasque Country</h3>
 <div align="center">
   <img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
 </div>
