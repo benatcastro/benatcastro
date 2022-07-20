@@ -7,9 +7,11 @@
 </div>
 
 <div id="badges" align="center">
-    <a href"https://www.linkedin.com/in/benatcastro/">
+    <a id="linkedin" href"https://www.linkedin.com/in/benatcastro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a id="instagram" href="https://www.instagram.com/benaatt__/">
+        <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
 </div>
 <h3 align="center">A student of the 42 network located at the Vasque Country</h3>
 <div align="center">
