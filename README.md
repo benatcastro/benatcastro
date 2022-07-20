@@ -9,7 +9,7 @@
 </div>
 
 <div id="badges" align="center">
-    <a id="linkedin" href"https://www.linkedin.com/in/benatcastro/">
+    <a id="linkedin" href="https://www.linkedin.com/in/benatcastro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a id="instagram" href="https://www.instagram.com/benaatt__/">
