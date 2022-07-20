@@ -17,7 +17,7 @@
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=benatcastro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=benatcastro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benatcastro&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 
