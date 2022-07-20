@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="480" height "200"/>
+    <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200" height "100"/>
 </div>
 <div id="greeting" align="center">
     <h1>Hi 👋, I'm Beñat!</h1>
