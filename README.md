@@ -1,13 +1,16 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="480" height "200"/>
 </div>
+<div id="greeting" align="center">
+    <h1>Hi 👋, I'm Beñat Castro!</h1>
+    <h1>Thanks for checking out my profile!</h1>
+</div>
 
 <div id="badges" align="center">
     <a href"https://www.linkedin.com/in/benatcastro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
-<h1 align="center">Hi 👋, I'm Beñat Castro!</h1>
 <h3 align="center">A student of the 42 network located at the Vasque Country</h3>
 <div align="center">
   <img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
