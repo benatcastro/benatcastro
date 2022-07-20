@@ -4,7 +4,7 @@
 <div id="greeting" align="center">
     <h1>Hi 👋, I'm Beñat!</h1>
     <h3 align="center">
-        A student of the  <a href="https://www.42network.org/">42 network located</a> at the Vasque Country
+        A student of the  <a href="https://www.42network.org/">42 network located</a> at the Vasque Country📌
     </h3>
 </div>
 
@@ -24,7 +24,7 @@
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=benatcastro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117) -->
 <div id="stats" align="center">
-    <h2>My Stats</h2>
+    <h2>💢My Stats💢</h2>
     <div id="stats_1">
         <img src="https://github-readme-stats.vercel.app/api?username=benatcastro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
     </div>
