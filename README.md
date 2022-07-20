@@ -27,7 +27,6 @@
     </div>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=benatcastro&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 
 
