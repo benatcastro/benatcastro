@@ -4,7 +4,7 @@
 <div id="greeting" align="center">
     <h1>Hi 👋, I'm Beñat!</h1>
     <h3 align="center">
-        A student of the  <h3 href="https://www.42network.org/">42 network located at the Vasque Country</h3>
+        A student of the  <a href="https://www.42network.org/">42 network located</a> at the Vasque Country
     </h3>
 </div>
 
