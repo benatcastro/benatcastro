@@ -3,7 +3,10 @@
 </div>
 <div id="greeting" align="center">
     <h1>Hi 👋, I'm Beñat!</h1>
-    <h3 align="center">A student of the 42 network located at the Vasque Country</h3>
+    <h3 align="center">
+        A student of the 
+        <h3 href"https://www.42network.org/">42 network located at the Vasque Country</h3>
+    </h3>
 </div>
 
 <div id="badges" align="center">
