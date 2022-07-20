@@ -13,7 +13,7 @@
     <a id="instagram" href="https://www.instagram.com/benaatt__/">
         <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
         <div id="Views counter">
-            <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square">
+            <img src="https://komarev.com/ghpvc/?username=benatcastro&style=for-the-badge">
         </div>
 </div>
 <div align="center">
