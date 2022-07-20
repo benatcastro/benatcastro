@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a id="instagram" href="https://www.instagram.com/benaatt__/">
-        <img src="https://img.shields.io/badge/Instagram-fccc63?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
+        <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
 </div>
 <h3 align="center">A student of the 42 network located at the Vasque Country</h3>
 <div align="center">
