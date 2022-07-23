@@ -5,7 +5,7 @@
         <h1>Hi 👋, I'm Beñat!</h1>
         <h3>A student of the  <a href="https://www.42network.org/">42 network</a> located at the Vasque Country📌</h3>
     </div>
-    <div id="badges" align="center">
+    <div id="badges">
         <a id="linkedin" href="https://www.linkedin.com/in/benatcastro/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
@@ -14,7 +14,7 @@
         <div id="Views counter">
             <img src="https://komarev.com/ghpvc/?username=benatcastro&style=for-the-badge">
         </div>
-        <div id="body" align="center">
+        <div id="body">
             <img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
         </div>
     </div>
