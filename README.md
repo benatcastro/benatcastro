@@ -18,9 +18,9 @@
         <img src="https://komarev.com/ghpvc/?username=benatcastro&style=for-the-badge">
     </div>
 </div>
-<a align="center"> test test test </a>
-<img align="center" src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
-
+<div id="body" align="center">
+    <img align="center" src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
+</div>
 <div id="stats" align="center">
     <h2>My Stats</h2>
     <div id="stats_1">
