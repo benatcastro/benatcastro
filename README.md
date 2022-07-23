@@ -13,10 +13,10 @@
         <div id="Views counter">
             <img src="https://komarev.com/ghpvc/?username=benatcastro&style=for-the-badge">
         </div>
-        <div id="body">
-            <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255"/>
-        </div>
     </div>
+</div>
+<div align="center">
+    <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255"/>
 </div>
 
 <div id="stats" align="center">
