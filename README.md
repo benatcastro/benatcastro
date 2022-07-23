@@ -1,12 +1,9 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250" height "130"/>
     <img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
-
     <div id="greeting">
         <h1>Hi 👋, I'm Beñat!</h1>
-        <h3>
-            A student of the  <a href="https://www.42network.org/">42 network</a> located at the Vasque Country📌
-        </h3>
+        <h3>A student of the  <a href="https://www.42network.org/">42 network</a> located at the Vasque Country📌</h3>
     </div>
 </div>
 
