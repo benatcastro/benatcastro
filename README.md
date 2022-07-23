@@ -20,7 +20,7 @@
 </div>
     
 
-<img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
+<img align="center" src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
 
 <div id="stats" align="center">
     <h2>My Stats</h2>
