@@ -19,10 +19,8 @@
     </div>
 </div>
     
-<div id= "Typing Gif" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250" height "130"/>
-  <img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
-</div>
+
+<img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
 
 <div id="stats" align="center">
     <h2>My Stats</h2>
