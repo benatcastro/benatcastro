@@ -19,9 +19,9 @@
     </div>
 </div>
     
-<a align="center">
+<div align="center">
     <img src=https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif width="480" height="255"/>
-</a>
+</div>
 
 <div id="stats" align="center">
     <h2>My Stats</h2>
