@@ -17,7 +17,6 @@
 </div>
 
 <p align="center"><img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255" /></p>
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
     
@@ -27,9 +26,8 @@
 
 ---
 
-
+### 🔥 &nbsp; My Stats :
 <div id="stats" align="center">
-    <h2>My Stats</h2>
     <div id="stats_1">
         <img src="https://github-readme-stats.vercel.app/api?username=benatcastro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
     </div>
