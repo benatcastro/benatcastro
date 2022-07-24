@@ -19,6 +19,7 @@
 <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255"/>
 <div id="About me">
     <h2>&#12791 About me<h2
+    - 🔭: i am a MCA (Master of computer applications) student looking forward to specialize in the 🖥️ machine learning sector.
     
 </div>
 
