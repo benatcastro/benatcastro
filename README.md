@@ -17,8 +17,9 @@
 </div>
 
 <img src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255"/>
-<div id="about me">
-    <h2 align="center">&#12791 About me &#12791<h2>
+<div id="About me">
+    <h2>&#12791 About me<h2
+    
 </div>
 
 
