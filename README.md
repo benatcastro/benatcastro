@@ -15,7 +15,7 @@
 ### :woman_technologist: &nbsp;About Me :
     
 - 🔭 I’m studiying a grade of MCA (Master Of Computer Applications).
-- 🌱 Looking forward to specialize in AI world.
+- 🌱 Looking forward to specialize in the AI world.
 - ⚡ In my free time I like to develop my own crazy ideas and keep learning about physics and maths.
 
 ---
