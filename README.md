@@ -21,7 +21,7 @@
 ---
 
 <div id="stats" align="center">
-    <h2>🚀My stats!🚀</h2>
+    <h2>My stats!🚀</h2>
     <div id="stats_1">
         <img src="https://github-readme-stats.vercel.app/api?username=benatcastro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
     </div>
