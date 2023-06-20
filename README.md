@@ -10,7 +10,7 @@
     <p align="center"><img src="https://komarev.com/ghpvc/?username=benatcastro&style=for-the-badge"></p>
 </p>
 
-<img text-align="center" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255" />
+<img align="center" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255" />
 
 ### :woman_technologist: &nbsp;About Me :
     
