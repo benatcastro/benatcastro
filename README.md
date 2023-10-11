@@ -5,8 +5,6 @@
 <p align="center">
     <a id="linkedin" href="https://www.linkedin.com/in/benatcastro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <a id="instagram" href="https://www.instagram.com/benaatt__/">
-        <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
     <p align="center"><img src="https://komarev.com/ghpvc/?username=benatcastro&style=for-the-badge"></p>
 </p>
 
