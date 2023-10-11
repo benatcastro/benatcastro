@@ -5,7 +5,6 @@
 <p align="center">
     <a id="linkedin" href="https://www.linkedin.com/in/benatcastro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <p align="center"><img src="https://komarev.com/ghpvc/?username=benatcastro&style=for-the-badge"></p>
 </p>
 
 <p align="center"><img align="center" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255" /></p>
