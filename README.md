@@ -2,7 +2,7 @@
 <h1 align="center">I'm Beñat!</h1>
 <h3 align="center">I'm nerdy about cyberpunk dystopias and space exploration
 </h3>
-<p>hope you find what you are looking for</p>
+<p align="center">hope you find what you are looking for</p>
 
 <p align="center">
     <a id="linkedin" href="https://www.linkedin.com/in/benatcastro/">
@@ -10,8 +10,6 @@
 </p>
 
 <p align="center"><img align="center" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255" /></p>
-I'm nerdy about cyberpunk dystopias and space exploration
-
 ---
 
 <div id="stats" align="center">
