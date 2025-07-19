@@ -10,10 +10,8 @@
 <p align="center"><img align="center" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255" /></p>
 
 ### :woman_technologist: &nbsp;About Me :
-    
-- 📖 42 student.
-- 🔭 Looking forward to specialize in the AI world.
-- 🧠 In my free time I like to develop my own crazy ideas and keep learning about physics and maths.
+
+Nerdy about space exploration
 
 ---
 
