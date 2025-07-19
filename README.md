@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250" height "130"/></p>
-<h1 align="center">Hi 👋, I'm Beñat!</h1>
-<h3 align="center">A student of the  <a href="https://www.42network.org/">42 network</a> located at the Vasque Country📌</h3>
+<h1 align="center">I'm Beñat!</h1>
+<h3 align="center">hope you find what you are looking for</h3>
 
 <p align="center">
     <a id="linkedin" href="https://www.linkedin.com/in/benatcastro/">
@@ -8,10 +8,7 @@
 </p>
 
 <p align="center"><img align="center" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="480" height="255" /></p>
-
-### :woman_technologist: &nbsp;About Me :
-
-Nerdy about space exploration
+I'm nerdy about cyberpunk dystopias and space exploration
 
 ---
 
