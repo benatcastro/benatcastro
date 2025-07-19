@@ -1,6 +1,8 @@
 <p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250" height "130"/></p>
 <h1 align="center">I'm Beñat!</h1>
-<h3 align="center">hope you find what you are looking for</h3>
+<h3 align="center">I'm nerdy about cyberpunk dystopias and space exploration
+</h3>
+<p>hope you find what you are looking for</p>
 
 <p align="center">
     <a id="linkedin" href="https://www.linkedin.com/in/benatcastro/">
